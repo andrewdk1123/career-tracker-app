@@ -1,11 +1,10 @@
 # CAMEL: Career And Milestone Expedition Logs
 
 <img align="right" src="camel.png" width="200" style="float: left; margin-left: 10px;">
-<p>
-  This project is motivated by the needs for gaining hands-on experience on Oracle softwares and preparing Oracle certification exams: Oracle Database SQL Certified Associate, Oracle Database PL/SQL Certified Professional, and Oracle Certified Java SE 17 Developer. Given the motivation, the application requires the installation of Oracle Database, which is basically a proprietary software. Fortunately, you can download and install the free version of the Oracle Database at ![this link](https://www.oracle.com/kr/database/technologies/xe-downloads.html). 
+
+This project is motivated by the needs for gaining hands-on experience on Oracle softwares and preparing Oracle certification exams: Oracle Database SQL Certified Associate, Oracle Database PL/SQL Certified Professional, and Oracle Certified Java SE 17 Developer. Given the motivation, the application requires the installation of Oracle Database, which is basically a proprietary software. Fortunately, you can download and install the free version of the Oracle Database at [this link](https://www.oracle.com/kr/database/technologies/xe-downloads.html). 
   
-  The application is designed to support the ornanization, tracking, and reflection of career path. I hope you find this project useful for planning your professional journey!  
-</p>
+The application is designed to support the ornanization, tracking, and reflection of career path. I hope you find this project useful for planning your professional journey!  
 
 ## Features
 
