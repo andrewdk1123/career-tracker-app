@@ -1,4 +1,4 @@
-# CAMEL: Career And Milestone Expedition Logs
+# CAMEL: Career And Milestone Experience Logs
 
 <img align="right" src="camel.png" width="200" style="float: left; margin-left: 10px;">
 
